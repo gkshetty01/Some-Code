@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int q[1000], /*next = 0,*/ temp = -1;
+int q[1000], temp = -1;
 
 int enq(int m, int nxt)
 {
